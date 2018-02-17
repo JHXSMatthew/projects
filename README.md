@@ -1,12 +1,15 @@
 # YourCraft Open Source Projects
 
 以下所有项目非active开发，有需要维护、架设支持请提交issue。 
-欢迎提交PR， 早期代码比较蠢，大佬读时海涵。
+欢迎提交PR， 早期代码比较蠢，大佬读时海涵。觉得有点意思可以右上角start。
 
 All following projects are not active in devs. Please submit an issue ticket if you wish 
 features or need helps. 
 PR is welcome, all codes were for learning purpose and I don't like comments so don't expect much.
 
+TODOs:
+ - 所有插件介绍/描述.
+ - 服务器架构设计说明
 
 游戏
 - The Walls https://github.com/JHXSMatthew/TheWalls
