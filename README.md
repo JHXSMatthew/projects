@@ -49,3 +49,4 @@ Bungee
 - HealthIndicator  https://github.com/JHXSMatthew/HealthIndicator
 - GameEvent https://github.com/JHXSMatthew/GameEvent
 - BossBarSender https://github.com/JHXSMatthew/BossBarSender
+- SQL_Lib https://github.com/JHXSMatthew/SQL_Lib
