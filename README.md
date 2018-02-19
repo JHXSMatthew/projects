@@ -48,3 +48,4 @@ Bungee
 其他
 - HealthIndicator  https://github.com/JHXSMatthew/HealthIndicator
 - GameEvent https://github.com/JHXSMatthew/GameEvent
+- BossBarSender https://github.com/JHXSMatthew/BossBarSender
