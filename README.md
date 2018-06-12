@@ -1,6 +1,6 @@
 # YourCraft Open Source Projects
 
-以下所有项目非active开发，有需要维护、架设支持请提交issue。 
+以下所有项目非active开发，有需要维护、架设支持请提交issue。 具体到某个插件问题，建议在该插件的repo下提交issue。 
 欢迎提交PR， 早期代码比较蠢，大佬读时海涵。觉得有点意思可以右上角start。
 
 All following projects are not active in devs. Please submit an issue ticket if you wish 
