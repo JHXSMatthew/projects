@@ -5,7 +5,7 @@
 
 All following projects are not active in devs. Please submit an issue ticket if you wish 
 features or need helps. 
-PR is welcome, all codes were for learning purpose and I don't like comments so don't expect much.
+PR is welcome, all codes were for learning purpose and I didn't like comments at that time so don't expect much.
 
 TODOs:
  - 所有插件介绍/描述.
