@@ -24,6 +24,7 @@ TODOs:
 - Lobby_signin https://github.com/JHXSMatthew/Lobby_Signin
 - Lobby_control https://github.com/JHXSMatthew/lobby_Control
 - Lobby_vip https://github.com/JHXSMatthew/lobby_vip
+- Lobby_Gui https://github.com/JHXSMatthew/lobby_Gui
 - Lobby_stats https://github.com/JHXSMatthew/lobby_Statistics
 - Lobby_ServerSelector https://github.com/JHXSMatthew/Lobby_ServerSelctor
 - TheWalls_lobby https://github.com/JHXSMatthew/TheWalls_lobby
